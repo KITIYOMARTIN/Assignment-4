@@ -1,0 +1,75 @@
+\documentclass[10pt,A4paper]{article}
+\usepackage{zed-csp,graphicx,color}%from
+\begin{document}
+\begin{titlepage}
+  \begin{figure}[h]
+  \centerline{\small MAKERERE 
+  \includegraphics[width=0.1\textwidth]{muk_log} UNIVERSITY}
+\end{figure}
+\centerline{COLLEGE OF COMPUTING AND INFORMATIC SCIENCES}
+\paragraph{•}
+\centerline{DEPARTMENT OF COMPUTER SCIENCE\\}
+\paragraph{•}
+
+\centerline{COURSEWORK: RESEARCH METHODOLOGY(BIT 2207)\\}
+\paragraph{•}
+
+\centerline{LECTURER: MR.ERNEST MWEBAZE}
+\paragraph{•}
+
+\centerline{TOPIC\\}ASSESSING THE PARTICIPATION OF FATHERS IN THEIR CHILDREN’S ACADEMIC LIVES IN UGANDA TODAY \\
+\paragraph{•}
+\centerline{COMPILED BY: \
+ NAMUYOMBA ANGELLA ZERIDA}
+ \paragraph{•}
+\centerline{STUDENT NUMBER :  215009156}
+\paragraph{•}
+\centerline{REGISTRATION NUMBER:15/U/10595/PS}
+\paragraph{•}
+\end{titlepage}
+\pagenumbering{roman}
+\tableofcontents
+\newpage
+\pagenumbering{arabic}
+\section{TOPIC}
+ Assessing the participation of fathers in their children’s academic lives in Uganda today 
+\section{PROBLEM STATEMENT}
+With time the responsibility of the children’s academics has been shifted more to the mothers than the fathers in Uganda. This has led to increased rate of children being raised by mothers alone as compared to the golden days where children had the support of both parents.
+\section{MAIN OBJECTIVE}
+To assess the participation of fathers in their children’s academic lives in Uganda.
+\section{SPECIFIC OBJECTIVES}
+ •	To determine or establish the role of fathers in the children’s academic lives.
+•	To establish the level at which fathers are involved in their children’s academic lives.
+
+
+\section{JUSTIFICATION}
+The academic life of a child is comprised of various factors ranging from financial support, moral support, parent’s supervision and career guidance. The academic life of a child has so much to determine about the future citizens of the nation but since there is no study that has been carried out on the participation of parents in the education.
+\section{SCOPE}
+This study was limited to the central region of Uganda. Emphasis will be drawn to the role of fathers in the academic life of children in Kampala district
+\section{METHODOLOGY}
+\subsection{Research Design}
+   A research design refers to systematic plan drawn by the researcher during the research study (Garwood and Jupp 2011). Generally the kind of data used in this study was both quantitative and qualitative .Qualitative research design was employed to get experience view points and suggestion towards the participation of fathers in the academic life of children
+\subsection{Population Size}
+This research was conducted indifferent schools around Kampala during the recent ‘back to school season’. 
+\subsection{Sampling Frame}
+The sampling frame was limited to schools based mainly in Kampala city center and Entebbe city since they are considered to have high populations. 
+\subsection{Research Procedure}
+\subsection{Desk Study}
+This study mainly considered reports from the Uganda Human Rights Commission
+\subsection{Data collection methods}
+Both primary and secondary data was used to obtain information for purposes of study. Secondary data included information from newspapers, highway manuals,  and reports whereas primary data included intensive field surveys. 
+
+\subsection{Data Processing and Analysis}
+
+All collected information from the survey was recorded, checked and verified for the analysis. Results were then presented using pie charts, graphs and tables to interpret variations and relationships between the participation of mothers and fathers
+
+\section{Result}
+From the research it was found out that there is some bit of truth in the hypothesis that fathers are participating less in the academic life of children in Uganda today. This is due to various reasons ranging from financial ruin to personal family issues. 
+\section{Conclusion.}
+From the research different human rights organizations should be put in place to help counsel parents (both mothers and fathers) on their different obligations in a child’s growth. Strict however should also be put in place to combat the fast growing habit of fathers completely neglecting their duties in families
+
+
+
+
+
+\end{document}
